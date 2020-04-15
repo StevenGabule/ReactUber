@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54ceb73d-f695-4c14-b886-defae022bd50" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/John_paul.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/John_paul.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/api/User/shared/Verification.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/User/shared/Verification.graphql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entities/User.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/User.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ormConfig.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/ormConfig.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/schema.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/src/schema.graphql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/Verification.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Verification.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/types/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/types.d.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +72,7 @@
       <workItem from="1586269638960" duration="9708000" />
       <workItem from="1586881847290" duration="3333000" />
       <workItem from="1586908847253" duration="673000" />
-      <workItem from="1586909645217" duration="1177000" />
+      <workItem from="1586909645217" duration="3537000" />
     </task>
     <servers />
   </component>
