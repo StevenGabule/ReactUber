@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54ceb73d-f695-4c14-b886-defae022bd50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/John_paul.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/John_paul.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/Ride/shared/Ride.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/Ride/shared/Ride.graphql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/api/User/shared/User.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/User/shared/User.graphql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/api/User/shared/Verification.graphql" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/User/shared/Verification.graphql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/Ride.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Ride.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/entities/User.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/User.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/entities/Verification.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/entities/Verification.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/types/types.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/types.d.ts" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,19 +34,20 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/entities" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="ts.external.directory.path" value="D:\NEXT-PROJECT\ReactUber\node_modules\typescript\lib" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\NEXT-PROJECT\ReactUber\src" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\NEXT-PROJECT\ReactUber\src\entities" />
       <recent name="D:\NEXT-PROJECT\ReactUber\src" />
       <recent name="D:\NEXT-PROJECT\ReactUber\src\api\Hello" />
       <recent name="D:\NEXT-PROJECT\ReactUber\src\api\Hello\sayBye" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\NEXT-PROJECT\ReactUber\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -72,7 +75,7 @@
       <workItem from="1586269638960" duration="9708000" />
       <workItem from="1586881847290" duration="3333000" />
       <workItem from="1586908847253" duration="673000" />
-      <workItem from="1586909645217" duration="3537000" />
+      <workItem from="1586909645217" duration="7789000" />
     </task>
     <servers />
   </component>
