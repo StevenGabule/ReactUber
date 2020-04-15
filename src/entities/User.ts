@@ -62,7 +62,7 @@ class User extends BaseEntity {
   lastLat: number;
 
   @Column({ type: "double precision", default: 0 })
-  lastOrientatio: number;
+  lastOrientation: number;
 
   get fullName(): string {
     return `${this.firstName} ${this.lastName}`;
